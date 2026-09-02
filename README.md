@@ -40,7 +40,7 @@ Tanto para KNN como para SVM el escalado es crucial y mejora significativamente 
 
 ```bash
 pip install -r requirements.txt
-jupyter notebook notebooks/prodVinos.ipynb
+jupyter notebook notebooks/TallerVinos.ipynb
 ```
 
 
