@@ -43,6 +43,4 @@ pip install -r requirements.txt
 jupyter notebook notebooks/prodVinos.ipynb
 ```
 
-##  Dataset
 
-[Real Market Data for Association Rules](https://www.kaggle.com/datasets/rukenmissonnier/real-market-data)
